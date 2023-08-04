@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "org/seq/redkitsunes/memoryfix1_3/mixin/MixinMinecraftServer": {
+      "getPermissionLevel": "Lnet/minecraft/server/MinecraftServer;method_3835(Lcom/mojang/authlib/GameProfile;)I"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "org/seq/redkitsunes/memoryfix1_3/mixin/MixinMinecraftServer": {
+        "getPermissionLevel": "Lnet/minecraft/server/MinecraftServer;method_3835(Lcom/mojang/authlib/GameProfile;)I"
+      }
+    }
+  }
+}
