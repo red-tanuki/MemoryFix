@@ -2,7 +2,7 @@
 Memory Fix is a simple mod that optimizes parts of minecraft that use a lot of memory.
 
 ### Installation:
-Download builds from our github releases page [here]().
+Download builds from our github releases page [here](https://github.com/redkitsunes/MemoryFix/releases).
 
 ### Requirements:
 
