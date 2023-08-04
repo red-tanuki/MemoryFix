@@ -18,7 +18,8 @@ See our full list of compatible mods [here]().
 
 ### Contribute
 
-If you want to help with development of the mod, please join our discord [here]().
+If you want to help with development of the mod, please join our discord [here](https://discord.gg/4aBk9MN5
+).
 
 ### License
 
